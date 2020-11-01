@@ -25,7 +25,7 @@ def search():
 	predecessor_isdigit = False
 	count = -1
 
-	data = open("data/test.txt", "r")
+	data = open("data/db_amostra.txt", "r")
 
 	in_search = main.ld_search.text()
 
