@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>texas2.png</file>
+  </qresource>
+  <qresource prefix="close">
+    <file>close.png</file>
+  </qresource>
+</RCC>
